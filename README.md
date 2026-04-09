@@ -1,2 +1,2 @@
-# carta-para-amigo
-carta para meu amigo
+# carta-para-amiga
+carta para minha amiga
